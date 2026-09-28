@@ -22,12 +22,10 @@ Setup: [AGENTS.md](https://pantunes.dev/AGENTS.md).
 Selected work, while at Taoti: Toho Water Authority (tech lead, a11y), Howard County MD (front-end, a11y),
 The German Marshall Fund, International Women's Forum, IAAPA, APTA.
 
-## This site, in public
+## How pantunes.dev is built
 
 - [Design system](https://pantunes.dev/design-system): tokens and contrast checked against WCAG at build time
 - Strict CSP with no inline scripts · 0 axe-core violations
-
-No animated banner here on purpose: text stays text, for screen readers too.
 
 ## Hiring me
 
