@@ -4,7 +4,7 @@ Senior front-end developer in Porto Alegre, Brazil, working remotely with full U
 20 years of HTML, CSS and CMS work (Drupal, WordPress), with a focus on web accessibility:
 WCAG 2.2 AA, ADA, Section 508 — inside the process, not after.
 
-→ [pantunes.dev](https://pantunes.dev) · [LinkedIn](https://www.linkedin.com/in/paulogabriel) · paulo84@gmail.com
+→ [pantunes.dev](https://pantunes.dev) · [Resume (PDF)](https://pantunes.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/paulogabriel) · paulo84@gmail.com
 
 ## Talk to my portfolio
 
