@@ -1,6 +1,6 @@
 # Paulo Antunes
 
-Senior front-end developer specialized in web accessibility (WCAG 2.2 AA, ADA, Section 508) · Drupal & WordPress.
+Senior front-end developer focused on web accessibility (WCAG 2.2 AA, ADA, Section 508) · Drupal & WordPress.
 Based in Porto Alegre, Brazil, working remotely with full US Eastern overlap. 20 years of HTML, CSS and JavaScript.
 
 → [pantunes.dev](https://pantunes.dev) · [Resume (PDF)](https://pantunes.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/paulogabriel) · paulo84@gmail.com
@@ -30,7 +30,7 @@ Open to full-time, contract and freelance roles, remote (US and Europe). I reply
 <details>
 <summary>Português</summary>
 
-Desenvolvedor front-end sênior especializado em acessibilidade web (WCAG 2.2 AA, ADA, Section 508) · Drupal e WordPress.
+Desenvolvedor front-end sênior com foco em acessibilidade web (WCAG 2.2 AA, ADA, Section 508) · Drupal e WordPress.
 Moro em Porto Alegre e trabalho remoto, com sobreposição total com o horário da costa leste dos EUA. 20 anos de HTML, CSS e JavaScript.
 
 → [pantunes.dev/pt](https://pantunes.dev/pt) · [Currículo](https://pantunes.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/paulogabriel) · paulo84@gmail.com
