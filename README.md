@@ -12,8 +12,6 @@ Based in Porto Alegre, Brazil, working remotely with full US Eastern overlap. 20
 - **Enterprise CMS front-end**: Drupal (Twig) and WordPress (Gutenberg), component-based
 - **Design to code**: years in UX/UI, so the designer's intent arrives intact
 
-Selected work, while at Taoti Creative (2018–2026): Toho Water Authority (sole front-end developer, a11y), Howard County MD (front-end, a11y), The German Marshall Fund, International Women's Forum, IAAPA, APTA.
-
 ## How pantunes.dev is built
 
 - [Design system](https://pantunes.dev/design-system): tokens and color contrast checked against WCAG at build time
